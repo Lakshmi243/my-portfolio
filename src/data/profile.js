@@ -18,7 +18,7 @@ export const profile = {
     email: 'ananthalakshmi0415@gmail.com',
   },
   links: {
-    github: 'https://github.com/your-username',
+    github: 'https://github.com/Lakshmi243',
     linkedin: 'https://www.linkedin.com/in/ananthalakshmi-p-3235002a4/',
     email: 'mailto:ananthalakshmi0415@gmail.com',
     resume: resumeFile,
