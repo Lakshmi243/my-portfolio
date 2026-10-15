@@ -14,7 +14,6 @@ export const profile = {
   photo: null,
   photoAlt: 'Ananthalakshmi P',
   contact: {
-    phones: ['+971 501 775 210', '+91 76191 04743'],
     email: 'ananthalakshmi0415@gmail.com',
   },
   links: {
